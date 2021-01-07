@@ -5,6 +5,3 @@ This is a useless test repo!
 
 Quack quack
 Bau bau
-miao miao
-muu muu
-roar roar
